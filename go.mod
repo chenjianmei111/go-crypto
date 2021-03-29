@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-crypto
+module github.com/chenjianmei111/go-crypto
 
 go 1.13
 
